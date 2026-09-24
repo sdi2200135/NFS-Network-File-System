@@ -1,5 +1,4 @@
-# System Programming-HW2
-# NFS (Network File System)
+# NFS Network File System (System Programming-HW2)
 
 ---
 
