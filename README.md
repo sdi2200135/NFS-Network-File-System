@@ -1,10 +1,6 @@
 # System Programming-HW2
 # NFS (Network File System)
 
-> This document describes **exactly what the submitted code does**, including
-> the parts of the assignment specification that are **not** implemented and
-> suggestions for completing them.
-
 ---
 
 ## 1. Overview
